@@ -1,1 +1,1 @@
-# String-matching---C
+# String-matching-C
